@@ -2,8 +2,6 @@
 <img src="https://img.shields.io/static/v1?label=FRAMEWORKS&message=UNOPAR&color=5994c1&style=for-the-badge"/>
 :spiral_calendar: Atualizado em 28 de Setembro de 2023.
 
-:construction: O projeto está em desenvolvimento :construction:
-
 #### DESCRIÇÃO
 
 > Projeto simples demonstrado a utilização do Spring Framework e JPA (Java Persistence API), para mais detalhes
